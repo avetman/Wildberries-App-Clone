@@ -1,1 +1,1 @@
-# Wildberries-App-Clone
+# Wildberries-App-Clone  React Native
